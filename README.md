@@ -1,5 +1,22 @@
 # [Snowdrop Projects](https://github.com/orgs/snowdrop/repositories)
 
+## [REST Example](https://github.com/snowdrop/rest-http-example)
+
+- GitHub repo link: [https://github.com/snowdrop/rest-http-example](https://github.com/snowdrop/rest-http-example)
+- CI link: [https://app.circleci.com/pipelines/github/snowdrop/rest-http-example](https://app.circleci.com/pipelines/github/snowdrop/rest-http-example)
+
+**Documentation:**
+- Spring Boot documentation: [https://spring.io/guides/tutorials/rest/](https://spring.io/guides/tutorials/rest/)
+- Fabric8 documentation: [https://appdev.openshift.io/docs/spring-boot-runtime.html#mission-http-api-spring-boot](https://appdev.openshift.io/docs/spring-boot-runtime.html#mission-http-api-spring-boot)
+
+**CI Status**
+
+- Spring Boot 2.4: ![CircleCI](https://circleci.com/gh/snowdrop/rest-http-example/tree/sb-2.4.x.svg?style=svg)
+- Spring Boot 2.3: ![CircleCI](https://circleci.com/gh/snowdrop/rest-http-example/tree/sb-2.3.x.svg?style=svg)
+- Spring Boot 2.2: ![CircleCI](https://circleci.com/gh/snowdrop/rest-http-example/tree/sb-2.2.x.svg?style=svg)
+- Spring Boot 2.1: ![CircleCI](https://circleci.com/gh/snowdrop/rest-http-example/tree/sb-2.1.x.svg?style=svg)
+- Spring Boot 1.5: ![CircleCI](https://circleci.com/gh/snowdrop/rest-http-example/tree/master.svg?style=svg)
+
 ## [CRUD Example](https://github.com/snowdrop/crud-example)
 
 - GitHub repo link: [https://github.com/snowdrop/crud-example](https://github.com/snowdrop/crud-example)
