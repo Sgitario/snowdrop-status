@@ -38,6 +38,27 @@
 - Spring Boot 2.1: ![CircleCI](https://circleci.com/gh/snowdrop/crud-example/tree/sb-2.1.x.svg?style=svg)
 - Spring Boot 1.5: ![CircleCI](https://circleci.com/gh/snowdrop/crud-example/tree/master.svg?style=svg)
 
+## [Messaging with AMQ Example](https://github.com/snowdrop/messaging-work-queue-example)
+
+- GitHub repo link: [https://github.com/snowdrop/messaging-work-queue-example](https://github.com/snowdrop/messaging-work-queue-example)
+- CI link: [https://app.circleci.com/pipelines/github/snowdrop/messaging-work-queue-example](https://app.circleci.com/pipelines/github/snowdrop/messaging-work-queue-example)
+
+**Technologies:**
+- AMQP
+- org.amqphub.spring:amqp-10-jms-spring-boot-starter
+
+**Documentation:**
+- Spring Boot documentation: [https://docs.spring.io/spring-boot/docs/2.0.x/reference/html/boot-features-messaging.html](https://docs.spring.io/spring-boot/docs/2.0.x/reference/html/boot-features-messaging.html)
+- RedHat documentation: [https://access.redhat.com/documentation/en-us/red_hat_amq/7.6/html-single/using_the_amq_spring_boot_starter/index](https://access.redhat.com/documentation/en-us/red_hat_amq/7.6/html-single/using_the_amq_spring_boot_starter/index)
+
+**CI Status**
+
+- Spring Boot 2.4: ![CircleCI](https://circleci.com/gh/snowdrop/messaging-work-queue-example/tree/sb-2.4.x.svg?style=svg)
+- Spring Boot 2.3: ![CircleCI](https://circleci.com/gh/snowdrop/messaging-work-queue-example/tree/sb-2.3.x.svg?style=svg)
+- Spring Boot 2.2: ![CircleCI](https://circleci.com/gh/snowdrop/messaging-work-queue-example/tree/sb-2.2.x.svg?style=svg)
+- Spring Boot 2.1: ![CircleCI](https://circleci.com/gh/snowdrop/messaging-work-queue-example/tree/sb-2.1.x.svg?style=svg)
+- Spring Boot 1.5: ![CircleCI](https://circleci.com/gh/snowdrop/messaging-work-queue-example/tree/master.svg?style=svg)
+
 ## [Circuit Breaker Example](https://github.com/snowdrop/circuit-breaker-example)
 
 - GitHub repo link: [https://github.com/snowdrop/circuit-breaker-example](https://github.com/snowdrop/circuit-breaker-example)
